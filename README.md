@@ -2,6 +2,8 @@
 
 An end-to-end data engineering pipeline for Tokyo 2020 Olympics CSV datasets, leveraging **Azure Data Factory**, **Azure Databricks**, and **Azure Synapse Analytics**.
 
+<img width="1232" alt="Screenshot 2025-05-25 at 5 57 47 PM" src="https://github.com/user-attachments/assets/8613e512-68b6-42f5-b710-996b5448fbd2" />
+
 ## 🚀 Project Workflow
 
 1. **GitHub CSV Storage**  
@@ -23,6 +25,17 @@ An end-to-end data engineering pipeline for Tokyo 2020 Olympics CSV datasets, le
 5. **Analysis & Visualization**  
    - Run T‑SQL queries in **Synapse Studio** against the SQL pool.  
    - Build dashboards in **Synapse Studio**, **Power BI Service**, or **Tableau** to visualize medal counts, gender participation, and more.
+  
+
+<img width="1052" alt="Screenshot 2025-05-25 at 5 54 08 PM" src="https://github.com/user-attachments/assets/de363484-54c2-4da5-8085-f0fdaacb5d71" />
+
+<img width="1700" alt="Screenshot 2025-05-25 at 5 53 31 PM" src="https://github.com/user-attachments/assets/c01a7bcf-3f97-42cf-94c9-8cc909cc1f8f" />
+
+<img width="1710" alt="Screenshot 2025-05-25 at 5 53 14 PM" src="https://github.com/user-attachments/assets/7f94d33d-45f0-4a5c-8000-ae1958135561" />
+
+
+
+
 
 
 
