@@ -19,7 +19,7 @@ An end-to-end data engineering pipeline for Tokyo 2020 Olympics CSV datasets, le
    - Cleaned CSVs are written to the `transformed_data/` folder in the data lake.
 
 4. **Loading into Azure Synapse**  
-   - Azure Synapse Analytics uses **`COPY INTO`** (or **Map Data**) to load CSVs from `transformed_data/` into the dedicated SQL pool.  
+   - Azure Synapse Analytics uses load CSVs from `transformed_data/` into the dedicated SQL pool.  
    - Tables created: `athletes`, `coaches`, `entriesgender`, `medals`, `teams`.
 
 5. **Analysis & Visualization**  
